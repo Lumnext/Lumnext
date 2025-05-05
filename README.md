@@ -9,7 +9,7 @@
 🎓 Student at **Thammasat Klong Luang School** | Computer Science (AI)  
 🚀 Currently working on **ไม่บอก**  
 🧠 Learning: Unity Game Dev | AI Systems | Web Tech  
-📫 Email: [natchanon.potter1139400038353@gmail.com](mailto:natchanon.potter1139400038353@gmail.com)  
+📫 Email: [natchanon.p4512026@gmail.com](mailto:natchanon.p4512026@gmail.com)  
 🌐 Portfolio: [My Website](https://strong-stroopwafel-7d9039.netlify.app/)  
 📍 Location: ไม่บอก
 
