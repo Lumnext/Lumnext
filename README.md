@@ -46,7 +46,7 @@
 ---
 
 ## 📚 Featured Project  
-### 🎮 [BLOCKBOTS](https://potter123.itch.io/blockbots)  
+### 🎮 [BLOCKBOTS]([https://potter123.itch.io/blockbots](https://potter123.itch.io/blockbots))  
 > An **open-world RPG** with dungeon crawling, survival sandbox mechanics, and a dynamic magic-based story.
 
 ---
