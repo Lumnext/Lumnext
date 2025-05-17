@@ -1,4 +1,8 @@
-<h1 align="center">Hi there! I'm <strong>Natchanon Phonyiam</strong> (Potter) 👋</h1>
+<br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&width=435&lines=Hi+there!+I'm+Natchanon+Phonyiam+Potter+%F0%9F%91%8B" alt="Typing SVG" />
+<h1/>
+<br>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
 </p>
@@ -10,10 +14,24 @@
 🚀 Currently working on **ไม่บอก**  
 🧠 Learning: Unity Game Dev | AI Systems | Web Tech  
 📫 Email: [natchanon.p4512026@gmail.com](mailto:natchanon.p4512026@gmail.com)  
-🌐 Portfolio: [My Website]()  
-📍 Location: ไม่บอก
+📍 Location: ไม่บอก <br>
+🌿✨ I love combining cyberpunk aesthetics with nature and magic themes — blending technology with mysticism to create unique experiences.
+
+<br>
+<a href="https://strong-stroopwafel-7d9039.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+<br>
+<a href="/path-to-your-resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readthedocs&logoColor=black">
+</a>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&width=435&lines=Game+Developer+%7C+Unity+%7C+AI+Systems;Passionate+about+Tech+%F0%9F%94%A5;Always+Building+Something..." alt="Typing SVG" />
+</p>
+
 
 ## ⚡ Technologies
 
@@ -41,6 +59,33 @@
 <a href="https://github.com/Lumnext">
   <img src="https://skillicons.dev/icons?i=figma,yarn,npm,postman,prisma">
 </a>
+
+---
+
+## 🧠 AI Projects
+- 🤖 **AI Dungeon Generator** – A GPT-powered system for generating dungeon storylines.
+- 📊 **Data Analyzer Bot** – A Python bot that analyzes gameplay stats in real-time.
+
+---
+
+## 🎮 Game Dev Projects
+- 🧱 [BLOCKBOTS](https://potter123.itch.io/blockbots) – Sandbox RPG in Unity.
+
+
+---
+
+## 📚 Featured Project  
+### 🎮 ไม่บอกชื่อหรอ บอกก็รู้ดิ
+> An **open-world RPG** with dungeon crawling, survival sandbox mechanics, and a dynamic magic-based story.
+
+
+---
+
+## 🌱 Currently Learning  
+- 🧠 Unity Game Development  
+- 🤖 AI / Machine Learning  
+- ⚛️ React & Vue Frameworks  
+  
 
 ---
 
@@ -73,19 +118,6 @@
 
 ---
 
-## 📚 Featured Project  
-### 🎮 [BLOCKBOTS](https://potter123.itch.io/blockbots)
-> An **open-world RPG** with dungeon crawling, survival sandbox mechanics, and a dynamic magic-based story.
-
----
-
-## 🌱 Currently Learning  
-- 🧠 Unity Game Development  
-- 🤖 AI / Machine Learning  
-- ⚛️ React & Vue Frameworks  
-
----
-
 ## 🔗 Connect with Me  
 <p align="center">
   <a href="https://discord.com/users/potter4399"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -106,4 +138,10 @@
 <br>
 <p align="center">
   <img src="https://img.shields.io/github/followers/Lumnext?style=for-the-badge&logo=github)"/>
+</p>
+
+<br>
+ 
+<p align="center">
+  <img src="https://count.getloli.com/get/@Lumnext.github.readme?theme=flat" alt="visitor count"/>
 </p>
