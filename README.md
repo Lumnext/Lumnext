@@ -15,24 +15,36 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,svelte,tailwind&theme=light">
+
+### 🖥️ Backend & API
+<img src="https://skillicons.dev/icons?i=nodejs,java,python,fastapi">
+
+### 🗄️ Database & Cloud Services
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase">
+
+### 🔧 DevOps & OS
+<img src="https://skillicons.dev/icons?i=debian,ubuntu">
+
+### 🛠️ Tools & Utilities
+<img src="https://skillicons.dev/icons?i=figma,yarn,npm,postman,prisma">
 
 ---
 
+## 🔥 My Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumnext&layout=compact&langs_count=4&theme=tokyonight&title_color=00ffff&text_color=ffffff&bg_color=000000&border_color=00ffff&cache_seconds=3600" />
+</p>
+
+---
+  
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumnext&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180"/><br>
 </p>
 
 ---
@@ -77,6 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" /><br>
   <img src="https://img.shields.io/github/followers/Lumnext?style=for-the-badge&logo=github"/>
 </p>
