@@ -18,19 +18,29 @@
 ## ⚡ Technologies
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,svelte,tailwind&theme=light">
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,svelte,tailwind&theme=light">
+</a>
 
 ### 🖥️ Backend & API
-<img src="https://skillicons.dev/icons?i=nodejs,java,python,fastapi">
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python,fastapi">
+</a>
 
 ### 🗄️ Database & Cloud Services
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase">
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase">
+</a>
 
 ### 🔧 DevOps & OS
+<a href="https://github.com/Lumnext">
 <img src="https://skillicons.dev/icons?i=debian,ubuntu">
+</a>
 
 ### 🛠️ Tools & Utilities
-<img src="https://skillicons.dev/icons?i=figma,yarn,npm,postman,prisma">
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=figma,yarn,npm,postman,prisma">
+</a>
 
 ---
 
@@ -46,7 +56,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180"/><br>
+  <a href="https://github.com/Lumnext">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180"/><br>
+  </a>
 </p>
 
 ---
@@ -54,7 +66,9 @@
 ## 🏆 GitHub Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lumnext&theme=onedark&row=1&margin-w=10&no-bg=true"/>
+  <a href="https://github.com/Lumnext">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lumnext&theme=onedark&row=1&margin-w=10&no-bg=true"/>
+  </a>
 </p>
 
 ---
