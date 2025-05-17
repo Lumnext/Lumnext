@@ -96,14 +96,14 @@
 ---
 
 ## 🤝 Support Me  
+<br>
 <p align="center">
   <a href="https://www.buymeacoffee.com/Lumnext">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
-
----
-
+<br>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Lumnext?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/followers/Lumnext?style=for-the-badge&logo=github)"/>
 </p>
