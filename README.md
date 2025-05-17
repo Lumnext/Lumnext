@@ -115,10 +115,31 @@
 
 ## 🔗 Connect with Me  
 <p align="center">
-  <a href="https://discord.com/users/potter4399"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.instagram.com/Lumnext/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/natchanon-py-8abb30352/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/potter4399">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/Lumnext/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/natchanon-py-8abb30352/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@yourprofile">
+    <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
