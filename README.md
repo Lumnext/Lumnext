@@ -32,27 +32,37 @@
 
 ### 🎨 Frontend
 <a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,svelte,tailwind&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,vite,next,angular,bootstrap,tailwind,dart,flutter">
 </a>
 
 ### 🖥️ Backend & API
 <a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,python,fastapi">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,fastapi,spring,nodejs,flask,firebase">
 </a>
 
 ### 🗄️ Database & Cloud Services
 <a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase">
+  <img src="https://skillicons.dev/icons?i=supabase,php,sqlite,mysql,mongodb,postgresql">
 </a>
 
 ### 🔧 DevOps & OS
 <a href="https://github.com/Lumnext">
-<img src="https://skillicons.dev/icons?i=debian,ubuntu">
+<img src="https://skillicons.dev/icons?i=linux,windows,kubernetes,docker,github">
 </a>
 
 ### 🛠️ Tools & Utilities
 <a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=figma,yarn,npm,postman,prisma">
+  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,pytorch,sketchup,blender,raspberrypi,arduino,postman">
+</a>
+
+### Scripting
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,py">
+</a>
+
+### game engine
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio">
 </a>
 
 ---
