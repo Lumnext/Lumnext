@@ -32,7 +32,7 @@
 
 ### 🎨 Frontend
 <a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,vite,next,angular,bootstrap,tailwind,dart,flutter">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,bootstrap,tailwind,dart,flutter">
 </a>
 
 ### 🖥️ Backend & API
