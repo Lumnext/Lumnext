@@ -87,11 +87,8 @@
 ---
 
 ## 🌱 Currently Learning  
-- 🧠 Unity Game Development  
 - 🤖 AI / Machine Learning  
-- ⚛️ React & Vue Frameworks  
   
-
 ---
 
 ## 🔥 My Top Languages
