@@ -37,7 +37,7 @@
 
 ### 🖥️ Backend & API
 <a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,nodejs,flask,firebase">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,firebase">
 </a>
 
 ### 🗄️ Database & Cloud Services
