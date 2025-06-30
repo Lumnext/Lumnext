@@ -52,7 +52,7 @@
 
 ### 🛠️ Tools & Utilities
 <a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,pytorch,sketchup,blender,raspberrypi,arduino,postman">
+  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,pytorch,sketchup,blender,arduino,postman">
 </a>
 
 ### Scripting
