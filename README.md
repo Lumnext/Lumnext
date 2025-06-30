@@ -80,7 +80,7 @@
 ---
 
 ## 📚 Featured Project  
-### 🎮 ไม่บอกชื่อหรอ บอกก็รู้ดิ
+### 🎮 Currently working on "Project Lumnext: Coming Soon ✨
 > An **open-world RPG** with dungeon crawling, survival sandbox mechanics, and a dynamic magic-based story.
 
 
