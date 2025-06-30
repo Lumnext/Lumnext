@@ -42,7 +42,7 @@
 
 ### 🗄️ Database & Cloud Services
 <a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=supabase,php,sqlite,mysql,mongodb,postgresql">
+  <img src="https://skillicons.dev/icons?i=php,sqlite,mysql,mongodb,postgresql">
 </a>
 
 ### 🔧 DevOps & OS
