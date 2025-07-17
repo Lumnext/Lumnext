@@ -77,7 +77,15 @@
 ---
 
 ## 🎮 Game Dev Projects
-- 🧱 [BLOCKBOTS](https://potter123.itch.io/blockbots) – Sandbox RPG in Unity.
+### 🧱 BLOCKBOTS
+> 🧩 Unity-powered **sandbox RPG** with puzzles, sci-fi aesthetics, and dynamic gameplay  
+🔗 [Play it now on Itch.io](https://potter123.itch.io/blockbots)
+
+---
+
+## 🚧 WIP Projects
+### 🔮 **Project Lumnext** *(Coming Soon ✨)*
+> 🌍 Open-world RPG blending dungeon crawling, survival mechanics, and a magical story arc
 
 
 ---
