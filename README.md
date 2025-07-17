@@ -97,28 +97,28 @@
 ## 🔥 My Top Languages
 <p align="center">
   <a href="https://github.com/Lumnext">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumnext&layout=compact&langs_count=4&theme=tokyonight&title_color=00ffff&text_color=ffffff&bg_color=000000&border_color=00ffff&cache_seconds=3600" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumnext&layout=compact&langs_count=6&theme=radical" height="180">
   </a>
 </p>
 
 ---
   
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Lumnext">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180">
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophy Case
+## 🏅 GitHub Trophy Case
 
 <p align="center">
-  <a href="https://github.com/Lumnext">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lumnext&theme=onedark&row=1&margin-w=10&no-bg=true"/>
-  </a>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lumnext&theme=radical&row=1&margin-w=10&no-bg=true" alt="GitHub Trophies">
+  </p>
 </p>
 
 ---
