@@ -15,7 +15,7 @@
 - 🧠 Learning: Unity Game Dev | AI Systems | Web Tech
 - 🚀 Current-Projects: *Classified* 👀
 - 📬 Reach-me-at: [lumnext45120262550@gmail.com](mailto:lumnext45120262550@gmail.com)
-- 🎮 Passionate-about: **I love combining cyberpunk aesthetics with nature and magic themes blending technology**
+- 🎮 Passionate about: **Blending cyberpunk aesthetics with nature and magic through technology**
 
 ---
 
@@ -33,40 +33,167 @@
 
 ## ⚡ Technologies
 
-### 🎨 Frontend
-<a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,dart,flutter">
+<h3>🎨 Frontend</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+</a>
+<a href="https://flutter.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+</a>
+<a href="https://svelte.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" />
+</a>
+<a href="https://astro.build/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
 </a>
 
-### 🖥️ Backend & API
-<a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,firebase">
+<h3>🖥️ Backend & API</h3>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+</a>
+<a href="https://spring.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
 </a>
 
-### 🗄️ Database & Cloud Services
-<a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=php,sqlite,mysql,mongodb,postgresql">
+<h3>🗄️ Database & Cloud</h3>
+<a href="https://sqlite.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
 </a>
 
-### 🔧 DevOps & OS
-<a href="https://github.com/Lumnext">
-<img src="https://skillicons.dev/icons?i=linux,windows,kubernetes,docker,github">
+<h3>🔧 DevOps & OS</h3>
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+</a>
+<a href="https://www.microsoft.com/windows" target="_blank">
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
-### 🛠️ Tools & Utilities
-<a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,pytorch,sketchup,blender,arduino,postman">
+<h3>🛠️ Tools & Utilities</h3>
+<a href="https://www.notion.so/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+</a>
+<a href="https://figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+</a>
+<a href="https://www.blender.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+</a>
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+</a>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+</a>
+<a href="https://www.sketchup.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" />
 </a>
 
-### Scripting
-<a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,py">
+<h3>🧾 Scripting Languages</h3>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+</a>
+<a href="https://www.lua.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
 </a>
 
-### game engine
-<a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio">
+<h3>🎮 Game Engines</h3>
+<a href="https://unity.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
 </a>
+<a href="https://www.unrealengine.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" />
+</a>
+<a href="https://create.roblox.com/studio" target="_blank">
+  <img src="https://skillicons.dev/icons?i=robloxstudio" alt="Roblox Studio" />
+</a>
+
+
+---
+
+## 📂 Highlight Repositories  
+- 🧠 [ai-dungeon-generator](https://github.com/Lumnext/ai-dungeon-generator) – Procedural story generation using GPT  
+- 🎲 [blockbots-rpg](https://github.com/Lumnext/blockbots) – Sandbox puzzle RPG in Unity
+
+---
+
+## 🎖 Achievements & Events  
+- 🏆 Finalist – Gamecraft x AWS 2025  
+- 🧠 Participant – AI for Good Hackathon (Thammasat, 2024)
 
 ---
 
@@ -79,9 +206,8 @@
 ## 🎮 Game Dev Projects
 ### 🧱 BLOCKBOTS
 > 🧩 Unity-powered **sandbox RPG** with puzzles, sci-fi aesthetics, and dynamic gameplay  
->   <a href="https://potter123.itch.io/blockbots" target="_blank">
-      🔗 [Play it now on Itch.io]
-    </a>
+> 🔗 [Play it now on Itch.io](https://potter123.itch.io/blockbots)
+
 
 ---
 
