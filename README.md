@@ -9,13 +9,13 @@
 
 ---
 
-## 🧑‍🎓 About Me  
-🎓 Student at **Thammasat Klong Luang School** | Computer Science (AI)  
-🚀 Currently working on **ไม่บอก**  
-🧠 Learning: Unity Game Dev | AI Systems | Web Tech  
-📫 Email: [lumnext45120262550@gmail.com](mailto:lumnext45120262550@gmail.com)  
-📍 Location: ไม่บอก <br>
-🌿✨ I love combining cyberpunk aesthetics with nature and magic themes — blending technology with mysticism to create unique experiences.
+
+## 👨‍💻 About Me
+- 🎓 Student: @ **Thammasat Klong Luang School** | **Computer Science (AI Track)**
+- 🧠 Learning: Unity Game Dev | AI Systems | Web Tech
+- 🚀 Current-Projects: *Classified* 👀
+- 📬 Reach-me-at: [lumnext45120262550@gmail.com](mailto:lumnext45120262550@gmail.com)
+- 🎮 Passionate-about: **I love combining cyberpunk aesthetics with nature and magic themes blending technology**
 
 <br>
 <a href="https://strong-stroopwafel-7d9039.netlify.app/" target="_blank">
