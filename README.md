@@ -24,7 +24,7 @@
   <a href="https://strong-stroopwafel-7d9039.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Portfolio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="/path-to-your-resume.pdf" target="_blank">
+  <a href="https://yourdomain.com/Natchanon-Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄-Resume-white?style=for-the-badge&logo=readthedocs&logoColor=black">
   </a>
 </p>
@@ -79,20 +79,15 @@
 ## 🎮 Game Dev Projects
 ### 🧱 BLOCKBOTS
 > 🧩 Unity-powered **sandbox RPG** with puzzles, sci-fi aesthetics, and dynamic gameplay  
-🔗 [Play it now on Itch.io](https://potter123.itch.io/blockbots)
+>   <a href="https://potter123.itch.io/blockbots" target="_blank">
+      🔗 [Play it now on Itch.io]
+    </a>
 
 ---
 
 ## 🚧 WIP Projects
 ### 🔮 **Project Lumnext** *(Coming Soon ✨)*
 > 🌍 Open-world RPG blending dungeon crawling, survival mechanics, and a magical story arc
-
-
----
-
-## 📚 Featured Project  
-### 🎮 Currently working on "Project Lumnext: Coming Soon ✨
-> An **open-world RPG** with dungeon crawling, survival sandbox mechanics, and a dynamic magic-based story.
 
 
 ---
