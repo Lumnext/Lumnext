@@ -17,14 +17,17 @@
 - 📬 Reach-me-at: [lumnext45120262550@gmail.com](mailto:lumnext45120262550@gmail.com)
 - 🎮 Passionate-about: **I love combining cyberpunk aesthetics with nature and magic themes blending technology**
 
-<br>
-<a href="https://strong-stroopwafel-7d9039.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-<br>
-<a href="/path-to-your-resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readthedocs&logoColor=black">
-</a>
+---
+
+## 🌐 Portfolio & Resume
+<p align="center">
+  <a href="https://strong-stroopwafel-7d9039.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="/path-to-your-resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄-Resume-white?style=for-the-badge&logo=readthedocs&logoColor=black">
+  </a>
+</p>
 
 ---
 
