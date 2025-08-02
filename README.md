@@ -14,7 +14,7 @@
 - 🎓 Student: @ **Thammasat Klong Luang School** | **Computer Science (AI Track)**
 - 🧠 Learning: Unity Game Dev | AI Systems | Web Tech
 - 🚀 Current-Projects: *Classified* 👀
-- 📬 Reach-me-at: [lumnext45120262550@gmail.com](mailto:lumnext45120262550@gmail.com)
+- 📬 Reach-me-at: [natchanon.lumnext@gmail.com](mailto:natchanon.lumnext@gmail.com)
 - 🎮 Passionate about: **Blending cyberpunk aesthetics with nature and magic through technology**
 
 ---
