@@ -112,6 +112,9 @@
 </a>
 
 <h3>🔧 DevOps & OS</h3>
+<a href="https://arch.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=arch" alt="arch" />
+</a>
 <a href="https://ubuntu.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
 </a>
