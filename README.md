@@ -209,7 +209,7 @@
 
 ## WEB Dev Projects
 ### P PotteriFile
-> 🔗 (https://potterifile.netlify.app/)
+> 🔗 https://potterifile.netlify.app/
 
 
 ---
