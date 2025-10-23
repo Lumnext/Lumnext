@@ -81,9 +81,6 @@
 <a href="https://www.php.net/" target="_blank">
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
 </a>
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" />
-</a>
 <a href="https://expressjs.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
 </a>
