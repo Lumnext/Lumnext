@@ -58,12 +58,6 @@
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
 </a>
-<a href="https://svelte.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" />
-</a>
-<a href="https://astro.build/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
-</a>
 
 <h3>🖥️ Backend & API</h3>
 <a href="https://nodejs.org/" target="_blank">
