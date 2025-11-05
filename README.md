@@ -204,6 +204,9 @@
 > 🧩 Unity-powered **sandbox RPG** with puzzles, sci-fi aesthetics, and dynamic gameplay  
 > 🔗 [Play it now on Itch.io](https://potter123.itch.io/blockbots)
 
+### 🧱 Natchanon Exorcist
+> 🧩 Unity-powered shooting 
+> 🔗 [Play it now on Itch.io](https://potter123.itch.io/natchanon-exorcist)
 
 ---
 
