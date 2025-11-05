@@ -103,14 +103,8 @@
 </a>
 
 <h3>🔧 DevOps & OS</h3>
-<a href="https://arch.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=arch" alt="arch" />
-</a>
 <a href="https://ubuntu.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </a>
 <a href="https://www.microsoft.com/windows" target="_blank">
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
