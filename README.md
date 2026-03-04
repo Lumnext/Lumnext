@@ -63,12 +63,6 @@
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
 </a>
-<a href="https://spring.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
-</a>
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
 </a>
@@ -80,9 +74,6 @@
 </a>
 
 <h3>🗄️ Database & Cloud</h3>
-<a href="https://sqlite.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-</a>
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </a>
@@ -94,12 +85,6 @@
 </a>
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
 </a>
 
 <h3>🔧 DevOps & OS</h3>
