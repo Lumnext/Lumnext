@@ -158,12 +158,6 @@
 
 ---
 
-## 📂 Highlight Repositories  
-- 🧠 [ai-dungeon-generator](https://github.com/Lumnext/ai-dungeon-generator) – Procedural story generation using GPT  
-- 🎲 [blockbots-rpg](https://github.com/Lumnext/blockbots) – Sandbox puzzle RPG in Unity
-
----
-
 
 
 ## WEB Dev Projects
