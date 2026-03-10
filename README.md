@@ -19,17 +19,6 @@
 
 ---
 
-## 🌐 Portfolio & Resume
-<p align="center">
-  <a href="https://strong-stroopwafel-7d9039.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-Portfolio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://yourdomain.com/Natchanon-Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄-Resume-white?style=for-the-badge&logo=readthedocs&logoColor=black">
-  </a>
-</p>
-
----
 
 ## ⚡ Technologies
 
