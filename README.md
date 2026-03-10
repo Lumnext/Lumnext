@@ -185,35 +185,6 @@
 ---
 
 
-## 🔥 My Top Languages
-<p align="center">
-  <a href="https://github.com/Lumnext">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumnext&layout=compact&langs_count=6&theme=radical" height="180">
-  </a>
-</p>
-
----
-  
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Lumnext">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180">
-  </a>
-</p>
-
----
-
-## 🏅 GitHub Trophy Case
-
-<p align="center">
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lumnext&theme=radical&row=1&margin-w=10&no-bg=true" alt="GitHub Trophies">
-  </p>
-</p>
-
----
-
 ## 🔗 Connect with Me  
 <p align="center">
   <a href="https://discord.com/users/potter4399">
