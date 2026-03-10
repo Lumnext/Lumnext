@@ -164,22 +164,11 @@
 
 ---
 
-## 🎖 Achievements & Events  
-- 🏆 Finalist – Gamecraft x AWS 2025  
-- 🧠 Participant – AI for Good Hackathon (Thammasat, 2024)
-
----
-
-## 🧠 AI Projects
-- 🤖 **AI Dungeon Generator** – A GPT-powered system for generating dungeon storylines.
-- 📊 **Data Analyzer Bot** – A Python bot that analyzes gameplay stats in real-time.
-
----
 
 
 ## WEB Dev Projects
 ### P PotteriFile
-> 🔗 https://potterifile.netlify.app/
+> 🔗 [https://potterifile.netlify.app/](https://jocular-monstera-47297d.netlify.app/)
 
 
 ---
@@ -195,17 +184,6 @@
 
 ---
 
-## 🚧 WIP Projects
-### 🔮 **Project Lumnext** *(Coming Soon ✨)*
-> 🌍 Open-world RPG blending dungeon crawling, survival mechanics, and a magical story arc
-
-
----
-
-## 🌱 Currently Learning  
-- 🤖 AI / Machine Learning  
-  
----
 
 ## 🔥 My Top Languages
 <p align="center">
