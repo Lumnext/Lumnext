@@ -38,9 +38,6 @@
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
 </a>
-<a href="https://flutter.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" />
-</a>
 <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
 </a>
